@@ -1,0 +1,13 @@
+.DS_Store
+.planning/
+archive/
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+.gradle/
+build/
+captures/
+*.hprof
+*.trace
