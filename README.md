@@ -59,3 +59,5 @@ ruby scripts/test_validate_skills.rb
 本轮参考 Android 官方 android/skills 补充测试与性能流程；固定提交、文件对照、采用点和舍弃点见 [SOURCES.md](SOURCES.md)。只读研究外部内容，未执行其安装或脚本。
 
 仓库名为 Android-Skills。按所用工具的技能加载方式选择单个 SKILL.md 或专项，不会因克隆仓库而自动安装到全局 skills 目录。
+
+[中文项目简介（PDF）](docs/portfolio/Project-Brief-ZH.pdf)
